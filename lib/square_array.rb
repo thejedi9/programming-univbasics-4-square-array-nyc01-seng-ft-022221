@@ -5,7 +5,7 @@ def square_array(numbers)
   new_array.push(numbers[index] ** 2)
   end
   return new_array
-  while
+ 
   square_array(new_numbers)
   new_numbers = [9,10,16,25]
   new_numbers_array = []
@@ -13,3 +13,4 @@ def square_array(numbers)
   new_numbers_array.push(new_numbers[index] ** 2)
   end
   return new_numbers_array
+end

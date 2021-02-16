@@ -14,4 +14,5 @@ def square_array(numbers)
   new_numbers_array.push(new_numbers[index] ** 2)
   end
   return new_numbers_array
+  end
 end

@@ -6,7 +6,7 @@ def square_array(numbers)
   end
   return new_array
  
-  def square_array(new_numbers)
+square_array(new_numbers)
   new_numbers = [9,10,16,25]
   new_numbers_array = []
   new_numbers.length.times do |index|

@@ -1,5 +1,4 @@
 def square_array(numbers)
-  while
   numbers = [1,2,3]
   new_array = []
   numbers.length.times do |index|

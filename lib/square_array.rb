@@ -1,5 +1,5 @@
-def square_array(numbers)
-  square_array(new_numbers)
+def square_array(numbers,new_numbers)
+  
   numbers = [1,2,3]
   new_array = []
   numbers.length.times do |index|

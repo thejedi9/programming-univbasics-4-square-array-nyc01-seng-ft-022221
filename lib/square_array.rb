@@ -1,4 +1,4 @@
-def square_array(numbers,new_numbers)
+def square_array(numbers)
   
   numbers = [1,2,3]
   new_array = []
@@ -6,7 +6,7 @@ def square_array(numbers,new_numbers)
   new_array.push(numbers[index] ** 2)
   end
   return new_array
- 
+  if square_array(new_numbers)
   new_numbers = [9,10,16,25]
   new_numbers_array = []
   new_numbers.length.times do |index|

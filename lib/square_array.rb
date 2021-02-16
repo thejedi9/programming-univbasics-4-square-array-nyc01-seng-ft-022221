@@ -6,7 +6,6 @@ def square_array(numbers); square_array(new_numbers)
   new_array.push(numbers[index] ** 2)
   end
   return new_array
-end
   
   new_numbers = [9,10,16,25]
   new_numbers_array = []
